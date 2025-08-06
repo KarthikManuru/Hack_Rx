@@ -1,0 +1,7 @@
+paddleocr
+python-docx
+pymupdf
+pdf2image
+extract-msg
+opencv-python
+matplotlib
