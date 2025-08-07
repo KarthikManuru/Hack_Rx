@@ -5,3 +5,4 @@ pdf2image
 extract-msg
 opencv-python
 matplotlib
+paddlepaddle
