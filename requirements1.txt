@@ -1,0 +1,6 @@
+numpy==1.25.2
+faiss-cpu==1.11.0.post1
+spacy==3.7.2
+mediapipe==0.10.21
+jax==0.4.23
+jaxlib==0.4.23
